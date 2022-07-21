@@ -1,0 +1,11 @@
+.background {
+    background-color: rgb(216, 207, 216);
+}
+
+
+.ice-creams {
+    height: 18em;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
